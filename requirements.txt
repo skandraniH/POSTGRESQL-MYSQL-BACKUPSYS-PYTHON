@@ -1,0 +1,22 @@
+# Database Drivers
+psycopg2>=2.9.6
+pymysql>=1.0.2
+
+# Scheduling
+apscheduler>=3.9.1
+
+# System Utilities
+psutil>=5.9.0
+
+# Web Interface
+Flask>=2.2.2
+
+# Windows Service Management (Windows only)
+pywin32>=303; sys_platform == 'win32'
+WMI>=1.5.1; sys_platform == 'win32'
+
+# CSV Handling
+python-dotenv>=0.21.0
+
+# Logging
+logging>=0.4.9.6
