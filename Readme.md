@@ -11,8 +11,6 @@ A robust, automated backup solution for PostgreSQL & MySQL
 
 🛠 Installation
 1. Clone the Repository
-git clone [https://github.com/IRamadi/POSTGRESQL-MYSQL-BACKUPSYS-PYTHON.git](https://github.com/IRamadi/POSTGRESQL-MYSQL-BACKUPSYS-PYTHON.git)
-cd POSTGRESQL-MYSQL-BACKUPSYS-PYTHON
 
 Create a virtual environment (recommended):
 
